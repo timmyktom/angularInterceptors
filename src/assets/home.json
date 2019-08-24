@@ -1,0 +1,10 @@
+{
+    "apiResponse": {
+        "url": "http://localhost:4200/assets/home.json",
+        "data": [
+            {
+                "modules": ["Users", "Products"]
+            }
+        ]
+    }
+}
