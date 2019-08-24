@@ -1,0 +1,22 @@
+{
+    "apiResponse": {
+        "url": "http://localhost:4200/assets/users.json",
+        "data": [
+            {
+                "id": 1,
+                "first_name": "George",
+                "last_name": "Voth"
+            },
+            {
+                "id": 2,
+                "first_name": "Deon",
+                "last_name": "Eilers"
+            },
+            {
+                "id": 3,
+                "first_name": "Hector",
+                "last_name": "Langer"
+            }
+        ]
+    }
+}
